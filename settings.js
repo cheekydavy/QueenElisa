@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 module.exports = {
-  SESSION_ID: 'QUEENELISA;;;==QT3QUMyM2YXh0U6NXMad1d3YzcMBncUlXcwYXZHJGUH1kdJFEapBTZ2gHTjI1NRV0UGZlVpwd=307086347452',
+  SESSION_ID: 'QUEENELISA;;;==wd1cEeQ12ZrZTNzdzR5o1V3QlWuJFV4ImaJZVLGZ3a3VmeVNWc2gVLO9kUjM1ZZZ1Z0VEbpwd=985425647452',
   ALIVE_REACT: '👋',
   ALIVE_MESSAGE: `*Hello @name [ And @gname @members Number of Members ] I am Alive Now !*
 
@@ -24,9 +24,9 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   LANGUAGE: 'EN',
   PORT: 3000,
   BOT_NAME: '𝐐𝐔𝐄𝐄𝐍 𝐄𝐋𝐈𝐒𝐀',
-  OWNER_NAME: 'Tech Savage',
-  OWNER_NUMBER: '254743680703',
-  SUDO: '254743680703',
+  OWNER_NAME: 'George',
+  OWNER_NUMBER: '254746524589',
+  SUDO: '254746524589',
   WORK_TYPE: 'public',
   WORK_MODE: 'group',
   TIME_ZONE: 'Asia/Colombo',
@@ -39,7 +39,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   ALIVE_AS_GIF: true,
   AUTO_VOICE: false,
   INBOX_BLOCK: false,
-  OWNER_REACT: true,
+  OWNER_REACT: false,
   AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: false,
   AUTO_SEEN_STATUS: true,
